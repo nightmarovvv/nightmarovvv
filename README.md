@@ -33,7 +33,9 @@
 
 **Crypto & Web3 expert.** Core focus — concentrated DLMM strategies on Meteora/Solana. Running an educational program on Meteora LP strategies.
 
-Everything I build gets automated. Tests, deployments, strategies — if it runs manually, it won't for long.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=16&duration=4000&pause=2000&color=484f58&center=true&vCenter=true&repeat=true&width=500&height=24&lines=%E2%80%9CThe+best+way+to+predict+the+future+is+to+create+it.%E2%80%9D" />
+</div>
 
 <br/>
 
@@ -65,33 +67,6 @@ Everything I build gets automated. Tests, deployments, strategies — if it runs
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <br/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-### `> ls projects/`
-
-<div align="center">
-
-<a href="https://github.com/nightmarovvv/hh-autoapply">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nightmarovvv&repo=hh-autoapply&theme=github_dark&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=A855F7&text_color=8b949e" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-### `> stats --verbose`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nightmarovvv&show_icons=true&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=A855F7&text_color=8b949e&ring_color=A855F7&hide_rank=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=nightmarovvv&hide_border=true&background=00000000&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=484f58&stroke=00000000" />
 
 </div>
 
