@@ -27,7 +27,7 @@
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-### `> whoami`
+## 𝗔𝗯𝗼𝘂𝘁
 
 **QA Automation Engineer** — designing test frameworks, building automation infrastructure, and writing tooling in Python. Every release goes through my pipelines before it hits production.
 
@@ -41,7 +41,7 @@
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-### `> cat tech_stack.txt`
+## 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
 <div align="center">
 
@@ -68,20 +68,6 @@
 
 <br/>
 
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-### `> watch contributions`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nightmarovvv/nightmarovvv/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nightmarovvv/nightmarovvv/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/nightmarovvv/nightmarovvv/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 <br/>
