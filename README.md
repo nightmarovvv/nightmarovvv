@@ -1,94 +1,132 @@
 <div align="center">
 
-<br/>
-
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Alexey%20Shabunin&fontSize=48&fontColor=c9d1d9&animation=fadeIn&fontAlign=50&fontAlignY=50" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=8b949e&center=true&vCenter=true&repeat=true&width=520&height=30&lines=QA+Automation+Engineer;DeFi+Strategist+%7C+Liquidity+Provider;Building+systems+that+run+without+me)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Socials — minimal -->
-[![Telegram](https://img.shields.io/badge/-@shanaleks-8b949e?style=flat&logo=telegram&logoColor=8b949e&labelColor=0d1117)](https://t.me/shanaleks)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/-nightmarovvv-8b949e?style=flat&logo=github&logoColor=8b949e&labelColor=0d1117)](https://github.com/nightmarovvv)
+<!-- Purple gradient line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:A855F7,100:0d1117&height=2" width="100%" />
 
 <br/><br/>
 
-</div>
-
-<!-- About -->
-
-**QA Automation Engineer** with a focus on Python-based test infrastructure.
-I design frameworks, write tooling, and make sure releases don't break in production.
-
-**DeFi strategist** operating on Solana. Concentrated liquidity on Meteora, yield optimization, on-chain automation. Went through every phase of crypto — from degen memecoin plays to building sustainable LP strategies. Currently running an educational program on Meteora LP with a partner.
-
-Everything I touch gets automated. Tests, deployments, trading — if it can be scripted, it will be.
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Alexey%20Shabunin&fontSize=56&fontColor=A855F7&animation=fadeIn&fontAlignY=50" />
 
 <br/>
 
-<!-- Tech -->
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=8b949e&center=true&vCenter=true&repeat=true&width=600&height=30&lines=QA+Automation+Engineer;Crypto+%26+Web3+Expert;If+it+runs+manually%2C+it+won't+for+long)](https://git.io/typing-svg)
 
-<table>
-<tr><td valign="top" width="50%">
+<br/>
+
+<!-- Socials -->
+[![Telegram](https://img.shields.io/badge/-@shanaleks-A855F7?style=flat&logo=telegram&logoColor=white&labelColor=A855F7)](https://t.me/shanaleks)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/-nightmarovvv-181717?style=flat&logo=github&logoColor=white&labelColor=181717)](https://github.com/nightmarovvv)
+
+<br/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+### `> whoami`
+
+**QA Automation Engineer** — designing test frameworks, building automation infrastructure, and writing tooling in Python. Every release goes through my pipelines before it hits production.
+
+**Crypto & Web3 expert.** Core focus — concentrated DLMM strategies on Meteora/Solana. Running an educational program on Meteora LP strategies.
+
+Everything I build gets automated. Tests, deployments, strategies — if it runs manually, it won't for long.
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+### `> cat tech_stack.txt`
+
+<div align="center">
+
+<br/>
 
 **QA & Automation**
 
-`Python` `Playwright` `Pytest` `Vedro`
-`Selenium` `Requests` `Allure`
-`Docker` `CI/CD` `Git` `SQL` `Linux`
-
-</td><td valign="top" width="50%">
-
-**Crypto & DeFi**
-
-`Solana` `Meteora` `DeFi`
-`Liquidity Providing` `Web3`
-`On-chain Automation` `Trading Bots`
-
-</td></tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Vedro](https://img.shields.io/badge/Vedro-A855F7?style=for-the-badge&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-FF6B35?style=for-the-badge&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logoColor=white)
 
 <br/>
 
-<!-- Projects -->
+**Tooling & Infrastructure**
 
-<table>
-<tr><td valign="top" width="50%">
-
-<a href="https://github.com/nightmarovvv/hh-autoapply"><strong>hh-apply</strong></a>
-<sub>CLI for automated job applications on hh.ru. Anti-detect browser, smart filters, personalized cover letters, Rich live dashboard, 69 tests, cron scheduling.</sub>
-
-</td><td valign="top" width="50%">
-
-<strong>Meteora LP Program</strong>
-<sub>Concentrated liquidity strategies on Solana. Co-running an educational program — LP optimization, risk management, sustainable yield.</sub>
-
-</td></tr>
-</table>
+![D42](https://img.shields.io/badge/D42-A855F7?style=for-the-badge&logoColor=white)
+![JJ](https://img.shields.io/badge/JJ-6366F1?style=for-the-badge&logoColor=white)
+![Web--Bricks](https://img.shields.io/badge/Web--Bricks-8B5CF6?style=for-the-badge&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <br/>
-
-<!-- Stats -->
-
-<div align="center">
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=nightmarovvv&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&ring_color=8b949e&hide_rank=true" />
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=nightmarovvv&hide_border=true&background=00000000&ring=8b949e&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=484f58" />
 
 </div>
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════ -->
+
+### `> ls projects/`
+
 <div align="center">
 
-<sub>Open to collaborations and opportunities — DM me on <a href="https://t.me/shanaleks">Telegram</a>.</sub>
+<a href="https://github.com/nightmarovvv/hh-autoapply">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nightmarovvv&repo=hh-autoapply&theme=github_dark&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=A855F7&text_color=8b949e" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+### `> stats --verbose`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nightmarovvv&show_icons=true&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=A855F7&text_color=8b949e&ring_color=A855F7&hide_rank=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=nightmarovvv&hide_border=true&background=00000000&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=484f58&stroke=00000000" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+### `> watch contributions`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nightmarovvv/nightmarovvv/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nightmarovvv/nightmarovvv/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/nightmarovvv/nightmarovvv/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:A855F7,100:0d1117&height=1" width="100%" />
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=nightmarovvv&color=A855F7&style=flat-square&label=Profile+Views)
+
+<br/>
+
+<sub>MIT Licensed</sub>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=21262d" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:A855F7,100:0d1117&height=2" width="100%" />
 
 </div>
